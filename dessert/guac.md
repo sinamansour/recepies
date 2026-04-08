@@ -2,5 +2,5 @@
 ## Ingredients
 * avo
 * lemon 
-* salt
+* salt2
 ## Instructions
